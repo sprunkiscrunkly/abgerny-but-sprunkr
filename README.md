@@ -1,6 +1,6 @@
 # Abgerny But Sprunkr: The Ultimate Puzzle Adventure
 
-![Abgerny But Sprunkr Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/abgerny-but-sprunkr/refs/heads/main/abgerny-sprunkr-action.png "Experience the thrill of Abgerny But Sprunkr")
+![Abgerny But Sprunkr Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/abgerny-but-sprunkr/refs/heads/main/abgerny-but-sprunkr.png "Experience the thrill of Abgerny But Sprunkr")
 
 🚀 Play Now - Version 1: [Abgerny But Sprunkr](https://sprunksters.com/abgerny-but-sprunkr/ "Launch into adventure")
 
